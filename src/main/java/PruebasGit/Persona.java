@@ -8,4 +8,9 @@ public class Persona {
     
     private String nombre;
     private String edad;
+    
+    public String getNombre()
+    {
+        return nombre;
+    }
 }
