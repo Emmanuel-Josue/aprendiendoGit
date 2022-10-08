@@ -7,11 +7,15 @@ package PruebasGit;
 public class Persona {
     
     private String nombre;
-    private String Apellido;
+    private String apellido;
     private String edad;
     
     public String getNombre()
     {
         return nombre;
+    }
+    public String gitApellido()
+    {
+        return apellido;
     }
 }
