@@ -11,6 +11,9 @@ package PruebasGit;
 public class Principal {
 
     public static void main(String[] args) {
+        Persona personaUno = new Persona();
+        
+        
     }
     
 }
