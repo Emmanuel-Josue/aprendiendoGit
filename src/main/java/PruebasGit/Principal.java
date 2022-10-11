@@ -14,8 +14,7 @@ public class Principal {
         Persona personaUno = new Persona();
         
         /*
-        Coloc texto en rama main
-        Los conejos son blancos
+        Nuevo texto en la rama main 
         */
     }
     
