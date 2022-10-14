@@ -7,9 +7,15 @@ package PruebasGit;
 public class Persona {
     
     private String nombre;
-    private String Apellido;
+    private String apellido;
     private String edad;
     
+    public Persona(String nombre, String apellido, String edad)
+    {
+    	this.nombre = nombre;
+	this.apellido = apellido;
+	this.edad = edad;
+    }
     public String getNombre()
     {
         return nombre;
