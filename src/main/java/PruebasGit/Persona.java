@@ -18,6 +18,13 @@ public class Persona {
     }
     public String getNombre()
     {
-        return nombre;
+        return nombre; 
     }
+    public String gitApellido()
+    {
+        return apellido;
+    }
+    /*
+    Texto colocado en la nueva rama cuatro 
+    */
 }
