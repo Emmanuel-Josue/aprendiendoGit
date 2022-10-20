@@ -1,1 +1,4 @@
 1- Paracetamol
+2- Pastillas
+3- Jarabe
+4- panqueques
